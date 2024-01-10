@@ -13,4 +13,4 @@ class CheatConverter:
     """
     Convert other cheat formats to the cheat format used by John GBA
     """
-    
+
